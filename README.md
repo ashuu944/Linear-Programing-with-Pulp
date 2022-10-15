@@ -1,2 +1,2 @@
 # Linear Programing with Pulp
- Decision Modeling  lab 2
+ Decision Modeling  labs
